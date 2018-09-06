@@ -1,0 +1,6 @@
+Account >> Opp >> Quote >> Proposal (cover price list, pli, products)
+Catalogue >> Add products to cart (Categories, Bundles and options, attributes, constraint rules)
+Pricing (Dimensions, matrix, rulesets)
+Conditional Charge types, Ramps and tiers, usage and overage) explanation
+Search, Comparisons, visibility rules, guided product config
+finalizing the cart
